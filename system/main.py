@@ -3,9 +3,6 @@ import numpy as np
 from options import get_config
 from frame_processor import FrameProcessor
 
-def analyze_videostream():
-  pass 
-
 WIN_NAME = 'Video'
 CONFIG_PATH = '../config.json'
 
