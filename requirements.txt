@@ -1,0 +1,8 @@
+future==0.18.3
+iso8601==2.1.0
+lxml==5.1.0
+numpy==1.26.3
+opencv-python==4.9.0.80
+pymavlink==2.4.41
+PyYAML==6.0.1
+scipy==1.11.4

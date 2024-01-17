@@ -1,0 +1,9 @@
+{
+  "scale_coef": 0.8,
+  "video_source": "../../m/PICT0001.AVI",
+  "win_size": 64,
+  "optical_flow_type": "lk",
+  "mode": "speed",
+  "padding_px": 15,
+  "output_path": "./results.csv"
+}
